@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "106543699961",
+    "project_id": "chill-vibes-3d367",
+    "storage_bucket": "chill-vibes-3d367.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106543699961:android:47afc2c4eae25a3b7e8f28",
+        "android_client_info": {
+          "package_name": "com.example.chillvibesadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo82lu-iIYlT5MhEAhFmxKFelFBb0EKyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
